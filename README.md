@@ -15,6 +15,9 @@ animations to match the theme of the currently playing song.
 # Spotify Setup
 - Create a Spotify Account, and go to [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
 - Create an App to get your Client ID and Client Secret, and update the information in the index.js file
+- If another user (a different account not linked to the Client Id and Client Secret) is trying to use the app, special access to their account must be given in the App settings by the owner, since the web app is not in production.
+  <img width="1512" alt="Screenshot 2024-10-08 at 1 40 14 AM" src="https://github.com/user-attachments/assets/be5f69c7-cf21-4606-980e-f357008930a8">
+
 
 # Instructions
 - Go to the project folder, install Nodemon - `npm install nodemon --save-dev`
