@@ -1,5 +1,7 @@
 # Spotify Genie - Music Recommender
 <img width="1512" alt="Screenshot 2024-10-08 at 12 39 33 AM" src="https://github.com/user-attachments/assets/21ec5f16-62e2-4d0d-b116-9a0cef50b98f">
+<img width="1512" alt="Screenshot 2024-10-08 at 1 19 06 AM" src="https://github.com/user-attachments/assets/ae007765-12d2-4830-8d79-bec5db176634">
+
 
 This web app enhances your music experience by providing personalized recommendations based on the song you’re currently playing. Additionally, it acts as a visual music player, with dynamic, fluid
 animations to match the theme of the currently playing song.
@@ -19,4 +21,6 @@ animations to match the theme of the currently playing song.
 - Select a Port number or use the default in app.js
 - Run the server file (app.js) using the command - `npm run startServer`
 - Go to **localhost:your port number**, in your browser
+- The App should now be Live
+
 
